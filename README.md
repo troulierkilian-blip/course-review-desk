@@ -33,3 +33,11 @@ npm start
 ## 许可
 
 软件源代码采用 [MIT](LICENSE)。[原创示例的授权](bundled/recall-lab/NOTICE.txt) 单独列明；使用者导入的课程和第三方依赖各自保留原有权利及许可。
+
+## 支持项目
+
+如果「课程复习助手」帮到了你，欢迎通过支付宝或微信扫码打赏。感谢你的支持！
+
+| 支付宝 | 微信 |
+| :---: | :---: |
+| <img src="assets/sponsors/alipay.jpg" alt="支付宝收款码" width="220"> | <img src="assets/sponsors/wechat.jpg" alt="微信收款码" width="220"> |
