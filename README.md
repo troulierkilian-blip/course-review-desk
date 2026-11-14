@@ -6,6 +6,8 @@
 
 **[下载 Windows x64 免安装版](https://github.com/troulierkilian-blip/course-review-desk/releases/latest)** · 在发布页的 **Assets** 中选择 `.exe` 文件。阅读、勾选和复习记录均可离线使用，无需注册账号。
 
+**[图文教程：如何把本地 HTML 课件做成离线复习书架？](docs/offline-html-study-guide.md)** 跟着「条件概率」一章导入课件、安排下次复习，也可以接入自己的 AI 助手，选中公式直接提问。
+
 ![首次打开时的课程书架，内含原创示例《记忆练习室》](docs/home.png)
 
 ## 用三步体验一次间隔复习
