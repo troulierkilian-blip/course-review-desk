@@ -1,0 +1,11 @@
+[
+  {
+    "id": "recall-lab",
+    "title": "记忆练习室",
+    "description": "用两次小练习体验主动回忆和间隔复习",
+    "color": "#347ce5",
+    "icon": "book",
+    "count": 2,
+    "order": 0
+  }
+]

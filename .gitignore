@@ -1,0 +1,14 @@
+node_modules/
+dist/
+release/
+qa/
+.cache/
+__pycache__/
+*.log
+*.zip
+*.exe
+*.sqlite*
+.env*
+ai-credentials.json
+Local State
+
